@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\TestAvion\\TestAvion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\LibraryAvion\\LibraryAvion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\LibraryAvion\\LibraryAvion.csproj",
+        "projectName": "LibraryAvion",
+        "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\LibraryAvion\\LibraryAvion.csproj",
+        "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\LibraryAvion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\TestAvion\\TestAvion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\TestAvion\\TestAvion.csproj",
+        "projectName": "TestAvion",
+        "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\TestAvion\\TestAvion.csproj",
+        "packagesPath": "C:\\Users\\louis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\TestAvion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\louis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\LibraryAvion\\LibraryAvion.csproj": {
+                "projectPath": "C:\\Users\\louis\\OneDrive\\Documents\\Informatique\\Semestre 3\\C#\\TD Avion\\ConsoleAvionCore - Etudiant\\LibraryAvion\\LibraryAvion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

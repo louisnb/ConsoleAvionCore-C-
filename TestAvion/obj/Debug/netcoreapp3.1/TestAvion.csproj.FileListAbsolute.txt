@@ -1,0 +1,5 @@
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\TestAvion\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\TestAvion\obj\Debug\netcoreapp3.1\TestAvion.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\TestAvion\obj\Debug\netcoreapp3.1\TestAvion.AssemblyInfoInputs.cache
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\TestAvion\obj\Debug\netcoreapp3.1\TestAvion.AssemblyInfo.cs
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\TestAvion\obj\Debug\netcoreapp3.1\TestAvion.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\LibraryAvion\obj\Debug\netcoreapp3.1\LibraryAvion.csprojAssemblyReference.cache
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\LibraryAvion\obj\Debug\netcoreapp3.1\LibraryAvion.AssemblyInfoInputs.cache
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\LibraryAvion\obj\Debug\netcoreapp3.1\LibraryAvion.AssemblyInfo.cs
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\LibraryAvion\obj\Debug\netcoreapp3.1\LibraryAvion.csproj.CoreCompileInputs.cache
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\LibraryAvion\bin\Debug\netcoreapp3.1\LibraryAvion.deps.json
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\LibraryAvion\bin\Debug\netcoreapp3.1\LibraryAvion.dll
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\LibraryAvion\bin\Debug\netcoreapp3.1\LibraryAvion.pdb
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\LibraryAvion\obj\Debug\netcoreapp3.1\LibraryAvion.dll
+C:\Users\louis\OneDrive\Documents\Informatique\Semestre 3\C#\TD Avion\ConsoleAvionCore - Etudiant\LibraryAvion\obj\Debug\netcoreapp3.1\LibraryAvion.pdb
